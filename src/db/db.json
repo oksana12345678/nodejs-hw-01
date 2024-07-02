@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "58e92ade-ab9d-4d2c-8453-7285b9264615",
+    "name": "Joel Hamill",
+    "phone": "(439) 940-8700",
+    "email": "Timmothy_Bosco@gmail.com",
+    "job": "Forward Tactics Director"
+  },
+  {
+    "id": "2905ecb9-a84c-4f2b-a2ab-e146f87a30bc",
+    "name": "Felicia Feil",
+    "phone": "(818) 496-8028 x0417",
+    "email": "Norwood2@gmail.com",
+    "job": "Global Infrastructure Orchestrator"
+  },
+  {
+    "id": "510bd2e6-6d2e-4954-b79c-595d46628076",
+    "name": "Mable Gusikowski V",
+    "phone": "982.755.0322 x10243",
+    "email": "Zoe15@hotmail.com",
+    "job": "Future Tactics Administrator"
+  }
+]

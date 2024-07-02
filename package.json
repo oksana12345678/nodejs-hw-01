@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "dev": "nodemon src/index.js",
     "get-all": "node src/scripts/getAllContacts",
     "generate": "node src/scripts/generateContacts.js",
     "add-one": "node src/scripts/addOneContact.js",
@@ -17,8 +17,8 @@
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.6.0",
+    "@faker-js/faker": "^8.4.1",
     "eslint": "^9.6.0",
-    "globals": "^15.8.0",
-    "nodemon": "^3.1.4"
+    "globals": "^15.8.0"
   }
 }
